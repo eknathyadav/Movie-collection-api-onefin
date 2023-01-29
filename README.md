@@ -88,7 +88,37 @@ http://localhost:8000/register/
 
 ![register](https://user-images.githubusercontent.com/48616375/215349510-b6f8293b-c1fd-4404-97f4-f0132a897680.PNG)
 
+```
+http://localhost:8000/movies/
+```
 
+![movies_third_party](https://user-images.githubusercontent.com/48616375/215349601-a2171ed3-a4f5-4089-972f-55fce180f8eb.PNG)
+
+```
+http://localhost:8000/collection/
+```
+
+![collection_list](https://user-images.githubusercontent.com/48616375/215349658-c76ae5f6-16ac-49f5-8e1d-6974a9bc9625.PNG)
+
+![post_collection](https://user-images.githubusercontent.com/48616375/215349682-4e29db9f-f53a-4e9a-bbe6-8786988ef9ea.PNG)
+
+![update_collection](https://user-images.githubusercontent.com/48616375/215349690-6421f150-bab9-45cc-b291-3c6dcd5afc91.PNG)
+
+![get_collection](https://user-images.githubusercontent.com/48616375/215349709-f7199e00-21b3-4bf1-8a2a-f8f7502c6f50.PNG)
+
+![delete_collection](https://user-images.githubusercontent.com/48616375/215349718-3913e564-42fc-494b-a813-9ef4cc91a703.PNG)
+
+```
+http://localhost:8000/request-count/
+```
+
+![image](https://user-images.githubusercontent.com/48616375/215349788-3bdf8f62-fe9d-437e-9ee8-714d97af45ab.png)
+
+```
+http://localhost:8000/request-count/reset/
+```
+
+![image](https://user-images.githubusercontent.com/48616375/215349826-210f9a94-4fa9-427c-a9e1-768c5ce02191.png)
 
 
 
