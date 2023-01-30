@@ -55,16 +55,14 @@ To run this project, you will need to add the following environment variables to
   git clone https://github.com/eknathyadav/Movie-collection-api-onefin.git
 
 ```
-2. Access the `movie_collection` folder
+2. Access the `Movie-collection-api-onefin` folder
 
 3. Install all the required python packages in your virtual environment
 
 ```
   pip install -r requirements.txt
 ```
-
-3. Access the `Movie-collection-api-onefin` folder
-
+  
 4. Run the Django Server
 
 ```
